@@ -1,2 +1,1 @@
-# trello
-opdrachten van trello voor school
+h1 Kevin's readme file
